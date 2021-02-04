@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# reading-repo201
 
-You can use the [editor on GitHub](https://github.com/Bassilalkhateeb/reading-repo2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Code 201 Reading Notes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This repo will have :
 
-### Markdown
++ __*My 201 Readings*__
++ __*My 201 render pages*__
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bassilalkhateeb/reading-repo2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ Content | Link
+ ------ | ------
+ Read1 | [Read1]()
+ Read2 | [Read2]()
+ Read3 | [Read3]()
+ Read4 | [Read4]()
+ Read5 | [Read5]()
+ Read6 | [Read6]()
+ Read7 | [Read7]()
+ Read8 | [Read8]()
+ Read9 | [Read9]()
+ Read10 | [Read10]()
+ Read11 | [Read11]()
+ Read12 | [Read12]()
+ Read13 | [Read13]()
+ Read14 | [Read14]()
+ Read15 | [Read15]()
