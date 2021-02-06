@@ -1,4 +1,4 @@
-# Reading Summary :
+# Prework Reading Summary :
 
 + ## HTML Book :
 ### •	Introduction which contains :
@@ -31,4 +31,4 @@
 ### 	 Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 ### 	2. Contain a number of inline elements.
 ### o	IFrames(<iframe>): An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame. One common use of iframes ) is to embed a Google Map into a page. The content of the iframe can be any html page (either located on the same server or anywhere else on the web).
-### o	Escape Characters: There are some characters that are used in and reserved by HTML code.
+### o	Escape Characters: There are some characters that are used in and reserved by HTML code.(For example, the left and right angled brackets.) Examples:
