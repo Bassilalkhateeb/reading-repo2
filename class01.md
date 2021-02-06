@@ -86,4 +86,5 @@
 ### * ARITHMETIC OPERATORS (+ , - , * ,++) Perform basic math
 ### * STRING OPERATORS Combine two strings (greeting= 'Hi 1 + 'Mol ly';) The value of greeting is now Hi Molly.
 ### * COMPARISON OPERATORS Compare two values and return true or false
-### * LOGICAL OPERATORS Combine expressions and return true or false
+### * LOGICAL OPERATORS Combine expressions and return true or false.
+__*For more go to Duckett book JavaScript and Jquery (page 11-52)*__
