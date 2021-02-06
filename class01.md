@@ -21,7 +21,7 @@
 
 
 ### o	Class Attribute: Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites. Example : 
-### 	<p class="important">
+### 	"<p class="important">"
 ### o	Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Example :
 ### 	<h1>, <p>, <ul>, and <li>
 ### o	Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Example :
