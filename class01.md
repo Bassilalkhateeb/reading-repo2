@@ -48,6 +48,7 @@
 ### o	A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 ### o	Getting your message across using designThe primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.It’s important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.You can differentiate between pieces of information using size, color, and style. You can use grouping and similarity to help simplify the information you present.
 
+# JavaScript Book :
 ### * So javascript is about making web pages more interactive and interesting, and user-friendly.
 ### what is a script ?
 ### * A script is a series of instructions that a computer can follow to achieve a goal.
