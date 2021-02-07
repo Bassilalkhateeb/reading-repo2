@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Your Statistics</title>
+
+    </head>
+
+    <body>
+        <style>
+            h2 {
+                text-align: center;
+            }
+            #one {
+                color: rgb(3, 119, 80);
+                
+            }
+            #two {
+                color: #960c8a;
+                
+            }
+            #three {
+                color: rgb(45, 161, 190);
+                
+            }
+            #four {
+                color: #41cc00;
+                
+            }
+        </style>
+        <header>
+            <h1 style="color: rgb(153, 10, 10); text-align: center;" >Welcome to my page</h1>
+
+
+            <nav>
+                <ul>
+                    <li><a href="/index.html">Home</a></li>
+                    <li><a href="#"></a>About</li>
+                </ul>
+            </nav>
+
+        </header>
+        
+        <main>
+            <h2>Your name :<span id="one" ></span></h2>
+            <h2>Your age :<span id="two"></span></h2>
+            <h2>Your class Number :<span id="three"></span></h2>
+            <h2>Your id :<span id="four"></span></h2>
+
+
+
+            <script>
+                let userName = prompt("What is your name?");
+                alert (userName);
+                console.log(userName);
+                let old = prompt("How old are you?");
+                alert (old);
+                console.log(old);
+                let classnum = prompt("What is your class number?");
+                alert (classnum);
+                console.log(classnum);
+                let stdid = prompt("What is your id num?");
+                alert (stdid);
+                console.log(stdid);
+
+                document.getElementById("one").innerText=userName;
+                document.getElementById("two").innerText=old;
+                document.getElementById("three").innerText=classnum;
+                document.getElementById("four").innerText=stdid;
+                
+            </script>
+
+        </main>
+        <footer>
+            
+            &copy;Bassilalkhateeb
+
+
+        </footer>
+    </body>
+    
+
+</html>
