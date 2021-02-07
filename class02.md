@@ -130,9 +130,9 @@
  
 
 
- ## JS :
+## JS :
 
- * ### STATEMENTS :
+* ### STATEMENTS :
 * ### A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
  * ### STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE.
  * ### STATEMENTS CAN BE ORGANIZED INTO CODE BLOCKS.
@@ -142,7 +142,7 @@
  * ### // we use this for single line comment .
  * ### /*  */ we use this for multi-line comment.
 
- * ## WHAT IS A VARIABLE? 
+* ## WHAT IS A VARIABLE? 
 * ### A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 * ### A variable is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs. 
 * ### How to declare a variable ? and how to assign them a value ?
@@ -173,10 +173,10 @@
 * ### Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
 1. #### ASSIGNMENT OPERATORS Assign a value to a variable
 2. #### ARITHMETIC OPERATORS (+ , - , * ,++) Perform basic math , more details as shown in the figure.
-![image](Screenshot.png)
+![operators](images/Screenshot.png)
 
 3. #### STRING OPERATORS Combine two strings (greeting= 'Hi 1 + 'Mol ly';) The value of greeting is now Hi Molly.
-![image](Screenshot(43).png)
+![image](images/Screenshot43.png)
 4. ##### COMPARISON OPERATORS Compare two values and return true or false
 5. ##### LOGICAL OPERATORS Combine expressions and return true or false
 
