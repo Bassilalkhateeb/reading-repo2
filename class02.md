@@ -128,3 +128,30 @@
 ### •	 Declarations are made up of two parts: the properties of the element that you want to change, and the values of those properties. For example, the font-family property sets the choice of font, and the value arial specifies Arial as the preferred typeface. 
 ### •	 CSS rules usually appear in a separate document, although they may appear within an HTML page. 
  
+
+
+ ## JS :
+
+ * ### STATEMENTS :
+* ### A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+ * ### STATEMENTS ARE INSTRUCTIONS AND EACH ONE STARTS ON A NEW LINE.
+ * ### STATEMENTS CAN BE ORGANIZED INTO CODE BLOCKS.
+
+ * ### COMMENTS :
+ * ### You should write comments to explain what your code does.They help make your code easier to read and understand.This can help you and others who read your code.
+ * ### // we use this for single line comment .
+ * ### /*  */ we use this for multi-line comment.
+
+ * ## WHAT IS A VARIABLE? 
+* ### A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
+* ### A variable is a good name for this concept because the data stored in a variable can change (or vary) each time a script runs. 
+* ### How to declare a variable ? and how to assign them a value ?
+* #### var "variable name" = "value";
+
+* ### DATA TYPES :
+* #### NUMERIC DATA TYPE : 4 , 5.5.
+* #### STRING DATA TYPE : 'hi' , '5' .
+* #### BOOLEAN DATA TYPE : true , false.
+* #### There is also rules to how to name a variable.
+
+
