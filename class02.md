@@ -175,8 +175,11 @@
 2. #### ARITHMETIC OPERATORS (+ , - , * ,++) Perform basic math , more details as shown in the figure.
 ![operators](images/Screenshot.png)
 
+
 3. #### STRING OPERATORS Combine two strings (greeting= 'Hi 1 + 'Mol ly';) The value of greeting is now Hi Molly.
 ![image](images/Screenshot43.png)
+
+
 4. ##### COMPARISON OPERATORS Compare two values and return true or false
 5. ##### LOGICAL OPERATORS Combine expressions and return true or false
 
@@ -190,6 +193,36 @@
 - ### Expressions rely on operators to calculate a value.
 
 - ## Decisions and Loops :
+- ### There are several places inb a script where desicions are made that determin which lines of code should be run.
+![image](images/demak.png)
+
+- ### Comparision Operators :
+1. #### == is equal to
+2. #### === strict equal to 
+3. #### != is not equal to
+4. #### !== strict not equal to
+5. #### > grater than , < less than , >= grater than or equal to , <= less than or equal to 
+* ### For maore about operators and examples (pages 151-156).
+
+- ### Logical Operators :
+
+1. #### && Logical and
+2. #### || Logical or
+3. #### ! Logical not
+
+- ### if statements :
+
+- #### The if statements evaluates or checks a condition.if the condition evaluates to true any statements in the subsequent code are excuted.
+
+- ### if else statements :
+- #### Checks a condition if it resolves to a true , the first code block is excuted , if the condition resolves to false the second code block is excuted.
+***For more go to Duckett book pages 145-162***
+
+
+
+
+
+
 
 
 
