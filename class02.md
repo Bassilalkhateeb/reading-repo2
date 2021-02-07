@@ -18,33 +18,33 @@
 
 
 * ### Bold & Italic :
-* ### <b> : By enclosing words in the tags <b> and </b> we can make characters appear bold.
-* ### <i> : By enclosing words in the tags <i> and </i> we can make characters appear italic.
+* ### "<b>" : By enclosing words in the tags <b> and </b> we can make characters appear bold.
+* ### "<i>" : By enclosing words in the tags <i> and </i> we can make characters appear italic.
 
 * ### Superscript and Subscript :
-+ ### <sup> : The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power.
++ ### "<sup>" : The <sup> element is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power.
 
-+ ### <sub> : The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
++ ### "<sub>" : The <sub> element is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 * ### White Space :
 + ### In order to make code easier to read, web page authors often add extra spaces or start some elements on new lines.
 + ### When the browser comes across two or more spaces next to each other, it only displays one space. Similarly if it comes across a line break, it treats that as a single space too. This is known as white space collapsing.
 
 * ### Line Breaks & Horizontal Rules :
-+ ### <br /> : As you have already seen, thebrowser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag <br />.
-+ ### <hr /> : To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the <hr /> tag.
++ ### "<br />" : As you have already seen, thebrowser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break tag "<br />".
++ ### "<hr />" : To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the "<hr />" tag.
 
 * ### Semantic Markup :
 + ### Strong & Emphasis : <strong> : The use of the <strong> element indicates that its content has strong importance. For example, the words contained in this element might be said with strong emphasis. By default, browsers will show the contents of a <strong> element in bold.
 
-+ ### <em> : The <em> element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an <em> element in italic.
++ ### "<em>" : The "<em>" element indicates emphasis that subtly changes the meaning of a sentence. By default browsers will show the contents of an "<em>" element in italic.
 
 
  * ### Quotations :
 
- + ### <blockquote> : The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the <p> element is still used inside the <blockquote> element.
- + ### <q> : The <q> element is used forshorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the <q> element.
- + ### <abbr> : If you use an abbreviation or an acronym, then the <abbr> element can be used. A title attribute on the opening tag is used to specify the full term.
+ + ### "<blockquote>" : The <blockquote> element is used for longer quotes that take up an entire paragraph. Note how the "<p>" element is still used inside the <blockquote> element.
+ + ### "<q>" : The "<q>" element is used forshorter quotes that sit within a paragraph. Browsers are supposed to put quotes around the <q> element, however Internet Explorer does not — therefore many people avoid using the "<q>" element.
+ + ### "<abbr>" : If you use an abbreviation or an acronym, then the "<abbr>" element can be used. A title attribute on the opening tag is used to specify the full term.
 
 * ### Citations & Definitions Author Details ,and Changes to Content.(read more about in Duckett HTML and CSS book pages 54-56).
 
@@ -66,7 +66,7 @@
 ### •	Block level elements look like they start on a new line.
 ### Examples include the <h1>- <h6>, <p> and <div> elements.
 ### •	Inline elements flow within the text and do not start on a newline.
-### Examples include <b>, <i>, <img>, <em> and <span>.
+### Examples include "<b>", "<i>", "<img>", "<em>" and "<span>".
 ### CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
 * ### CSS Associates Style rules with HTML elements
