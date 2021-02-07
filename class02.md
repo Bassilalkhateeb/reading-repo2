@@ -152,6 +152,50 @@
 * #### NUMERIC DATA TYPE : 4 , 5.5.
 * #### STRING DATA TYPE : 'hi' , '5' .
 * #### BOOLEAN DATA TYPE : true , false.
-* #### There is also rules to how to name a variable.
+* #### There is also rules of naming a variable.
+
+* ### ARRAYS :
+* #### An array is a special type of variable. It doesn't just store one value; it stores a list of values.
+* #### You should consider using an array whenever you are working with a list or a set of values that are related to each other.
+* #### CREATING AN ARRAY : 
+#### var colors;
+1. #### colors ['white', 'black', ' custom'];
+2. #### var colors = new Array('white ','black','custom');
+
+* ### VALU ES IN ARRAYS : Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).(more about arrays on page 72).
+
+* ### EXPRESSIONS :
+* ### An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions:
+1. #### EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE. var color = 'beige';
+2. #### EXPRESSIONS THAT USE TWO OR MORE VALUES TO RETURN A SINGLE VALUE. var area = 3 * 2;
+
+* ### OPERATORS:
+* ### Expressions rely on things called operators; they allow programmers to create a single value from one or more values.
+1. #### ASSIGNMENT OPERATORS Assign a value to a variable
+2. #### ARITHMETIC OPERATORS (+ , - , * ,++) Perform basic math , more details as shown in the figure.
+![image](Screenshot.png)
+
+3. #### STRING OPERATORS Combine two strings (greeting= 'Hi 1 + 'Mol ly';) The value of greeting is now Hi Molly.
+![image](Screenshot(43).png)
+4. ##### COMPARISON OPERATORS Compare two values and return true or false
+5. ##### LOGICAL OPERATORS Combine expressions and return true or false
+
+- ## Conclusion :
+- ### A script is made up of a series of statements. Each statement is like a step in a recipe.
+- ### Scripts contain very precise instructions. For example, you might specify that a value must be remembered before creating a calculation using that value.
+- ### Variables are used to temporarily store pieces of information used in the script.
+- ### Arrays are special types of variables that store more than one piece of related information.
+- ### JavaScript distinguishes between numbers (0-9), strings (text), and Boolean values (true or false).
+- ### Expressions evaluate into a single value.
+- ### Expressions rely on operators to calculate a value.
+
+- ## Decisions and Loops :
+
+
+
+
+
+
+
 
 
