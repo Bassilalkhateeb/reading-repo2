@@ -11,8 +11,7 @@
  ------ | ------
  Prework Reading | [Prework Reading](https://bassilalkhateeb.github.io/reading-repo2/class01)
  Read02 | [Read02](https://bassilalkhateeb.github.io/reading-repo2/class02)
- Read2 | [Read2]()
- Read3 | [Read3]()
+ Read03 | [Read03](https://bassilalkhateeb.github.io/reading-repo2/class03)
  Read4 | [Read4]()
  Read5 | [Read5]()
  Read6 | [Read6]()
