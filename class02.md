@@ -162,7 +162,7 @@
 1. #### colors ['white', 'black', ' custom'];
 2. #### var colors = new Array('white ','black','custom');
 
-* ### VALU ES IN ARRAYS : Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).(more about arrays on page 72).
+* ### VALUES IN ARRAYS : Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one).(more about arrays on page 72).
 
 * ### EXPRESSIONS :
 * ### An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions:
