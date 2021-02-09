@@ -235,7 +235,7 @@ __*more about this in duckett js book p 86-99*__
 
  6. ### Work environment readiness
 
-__*For more please visit [link](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)*__
+__*For more please visit [Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)*__
 
 
 
