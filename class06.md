@@ -297,6 +297,57 @@ Trying to remove an attribute that does not exist will not cause an error, but i
 
 ### Browsers offer tools for viewing the DOM tree .
 
+__*For much more information and examples visit Duckett js book p 183-242*__
+
+
+
+
+# Understanding The Problem Domain Is The Hardest Part Of Programming: 
+
+### Why problem domains are hard ?
+
+Have you ever tried to put together a jigsaw puzzle that didn’t have any picture on it?that has a very similar pattern repeated on it and is double-sided? Normally when you put together a jigsaw puzzle you follow steps that might look something like this:
+
+- #### Figure out what the major components of the picture are
+- #### Sort the pieces by color or component
+- #### Put together all the border pieces
+- #### Put together each component of the picture from the piles you created
+
+This all breaks down when you don’t have a picture with clear components that you can identify.
+
+
+The same thing happens when writing code.  Writing code is a lot like putting together a jigsaw puzzle.  We put together code with the purpose of building components that we have taken out of the “bigger picture” of the problem domain.
+
+The big issue is that many problem domains are like a puzzle with a blurry picture or no picture at all.
+
+
+### What can you do about it?
+
+If understanding the problem domain is the hardest part of programming and you want to make programming easier, you can do one of two things:
+
+- ### Make the problem domain easier
+- ### Get better at understanding the problem domain
+
+> You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
+
+Games are really good at this.  Look at most games today and you’ll find that you start with a very small problem domain.  The first level is usually a tutorial that has a basic set of things you can do so that you don’t get overwhelmed.  But, as you advance through the levels, you usually find they get harder and introduce new concepts that build gradually on what you know, until you understand a pretty large problem domain.
+
+
+The other choice is to become better at understanding problem domains.  As developers, we tend to think that sitting down and talking to customers or business people who know about the problem domain is a waste of time. It is easy to fall into the trap of thinking you understand enough of the problem to get started coding it.  Best to resist the temptation to “not waste anymore time talking” and make sure you understand a problem inside and out before you try and solve it with code.  It is much more expensive and time consuming to do things over than it is to do them right the first time.  I learn this lesson the hard way time and time again
+
+
+
+### Quick update on my new product
+
+I’m still not ready to unveil exactly what I am building, but I do have an active mailing list where you can sign up to find out when I release the product I’m working on to help developers get better career opportunities and market themselves.
+
+So many developers don’t realize how much of an impact marketing themselves and branding can have on their opportunities.  I’m hoping to help developers learn not only how valuable marketing and branding is, but how to do it most effectively.
+
+If you are interested, please sign up. (I won’t spam you.) [link](https://simpleprogrammer.com/lp/simple-programmer-newsletter-lp/)
+
+This article was written by  __*John Sonmez*__
+
+
 
 
 
