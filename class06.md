@@ -88,7 +88,136 @@ every '<hl>' element in the page or every <1 i>
 element within a particular list. 
 
 
+### Methods that select individual elements :
 
+gitElementById() and querySelector(); can both search an entire document and return individual elements. Both use similar syntax.
+
+![image](images/Screenshot(96).png)
+
+
+
+## SELECTING AN ELEMENT FROM A NODELIST :
+There are two ways to select an element from a Nodelist:
+The item() method and array syntax.
+Both require the index number of the element you want. 
+
+1. THE item() METHOD :
+
+ - ### Nodelists have a method
+called item() which will return
+an individual node from the
+Node list. 
+
+![image](images/Screenshot(98).png)
+
+
+
+- ### Array Syntax : 
+
+![image](images/Screenshot(100).png)
+
+
+### Repeating actions for an entire  nodlist :
+
+
+![image](images/Screenshot(102).png)
+
+
+### TRAVERSING THE DOM : When you have an element node, you can select another element in relation to it using these five properties. This is known as traversing the DOM. 
+
+ - ### parentNode : This property finds the element node for the containing (or parent) element in the HTML
+
+ - ### previousSibling nextSibling : These properties find the previous or next sibling of a node if there are siblings. 
+
+ - ### firstChild lastChild : These properties find the first or last child of the current element.
+
+
+
+### WHITESPACE NODES : Traversing the DOM can be difficult because some browsers add a text node whenever they come across whitespace between elements.
+
+
+
+### PREVIOUS & NEXT SIBLING, FIRST & LAST CHILD :
+
+__*Examples in Duckett JS book page 210-211*__
+
+
+
+
+
+### HOW TO GET/UPDATE ELEMENT CONTENT: So far this chapter has focused on finding elements in the DOM tree.The rest of this chapter shows how to access/update element content. Your choice of techniques depends upon what the element contains. 
+
+
+### ACCESS & UPDATE A TEXT NODE WITH NODEVALUE:
+
+When you select a text node, you can retrieve or amend the content of it
+using the node Va 1 ue property.
+
+
+### ACCESSING & CHANGING A TEXT NODE: 
+
+To work with text in an element, first the element node is accessed and then its text node.
+
+The text node has a property called node Value which returns the text in that text node.
+
+You can also use the node Value property to update the content of a text node.
+
+
+### ACCESS & UPDATE TEXT WITH TEXT CONTENT (& INNER TEXT)  : The textContent property allows you to collect or update just the text that is in the containing element (and its children).
+
+
+
+
+### ACCESSING TEXT ONLY : 
+
+In order to demonstrate the difference between textContent and i nnerText, this example features a CSS rule to hide the contents of the '<em>' element.
+
+The script starts off by getting the content of the first list item using both the textContent property and i nnerText. It then writes the values after the list. 
+
+
+Finally, the value of the first list item is then updated to say sourdough bread. This is done using the textContent property.
+
+
+
+
+### Adding or removing HTML content : There are two ways of doing that :
+
+1. ### The inner Html Property :
+
+![image](images/Screenshot(105).png)
+
+
+2. ### DOM Manipulation methods :
+
+![image](images/Screenshot(106).png)
+
+
+
+
+### ACCESS & UPDATE TEXT & MARKUP WITH INNERHTML: Using the innerHTML property, you can access and amend the contents of an element, including any child elements.
+
+
+### ADDING ELEMENTS USING DOM MANIPULATION : 
+ 
+ 1. ### CREATE THE ELEMENT : 'createEl ement ()'
+
+ 2. ### GIVE IT CONTENT : 'createTextNode()'
+
+ 3. ### ADD IT TO THE DOM : 'appendChild()'
+
+
+
+### ADDING AN ELEMENT TO THE DOM TREE : 
+
+#### 'createElement ()' creates an element that can be added to the DOM tree, in this case an empty '<l i >' element for the list.
+
+#### This new element is stored inside a variable called 'newEl' until it is attached to the DOM tree later on.
+
+#### 'createTextNode()' allows you to create a new text node to attach to an element. It is stored in a variable called 'newText'.
+
+
+
+### 
 
 
 
