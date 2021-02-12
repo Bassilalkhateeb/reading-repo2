@@ -217,7 +217,85 @@ Finally, the value of the first list item is then updated to say sourdough bread
 
 
 
-### 
+### REMOVING ELEMENTS VIA DOM MANIPULATION : DOM manipulation can be used to remove elements from the DOM tree. 
+
+1. ### STORE THE ELEMENT TO BE REMOVED IN A VARIABLE
+
+2. ### STORE THE PARENT OF THAT ELEMENT IN A VARIABLE
+
+3. ### REMOVE THE ELEMENT FROM ITS CONTAINING ELEMENT
+
+
+
+### REMOVING AN ELEMENT FROM THE DOM TREE : 
+This example uses the remove 'Chi1d ()' method to remove the fourth item from the list (along with its contents). 
+The first variable, 'removeEl', stores the actual element you want to remove from the page (the fourth list item).
+The second variable,
+containerEl, stores the '<u 1 >' element that contains the element you want to remove.
+
+
+
+### COMPARING TECHNIQUES: UPDATING HTML CONTENT :
+
+
+In any programming language, there are often several ways to achieve the same task. In fact, if you asked ten programmers to write the same script, you may well find ten different approaches.
+
+Some programmers can be rather opinionated and believe that their way is always the "right" way to do things - when there are often several right ways. If you understand why people prefer some approaches over others, then you are in a strong position to decide whether it meets the needs of your project.
+
+### 'document.write()' : The document object's write () method is a simple way to add content that was not in the original source code to the page, but its use is rarely advised.
+
+
+### Attribute Nodes : 
+
+![image](images/Screenshot(107).png)
+
+
+
+### CHECK FOR AN ATTRIBUTE AND GET ITS VALUES : 
+
+Before you work with an attribute, it is good practice to check whether it exists. This will save resources if the attribute cannot be found.
+
+The hasAttri bute() method of any element node lets you check if an attribute exists. The attribute name is given as an argument in the parentheses. 
+
+Using hasAttribute() in an if statement like this means that the code inside the curly braces will run only if the attribute exists on the given element.
+
+
+### CREATING ATTRIBUTES & CHANGING THEIR VALUES :
+
+The className property allows you to change the value of the cl ass attribute. If the attribute does not exist, it will be created and given the specified value.
+
+You have seen this property used throughout the chapter to update the status of the list items. Below, you can see another way to achieve the task.
+
+The setAttribute() method allows you to update the value of any attribute. It takes two parameters: the attribute name, and the value for the attribute.
+
+
+
+
+### REMOVING ATTRIBUTES :
+
+To remove an attribute from an element, first select the element,then call removeAttribute () . It has one parameter: the name of the attribute to remove.
+
+Trying to remove an attribute that does not exist will not cause an error, but it is good practice to check for its existence before attempting to remove it. 
+
+
+
+## Conclusion : 
+
+### The browser represents the page using a DOM tree. 
+
+### DOM trees have four types of nodes: document nodes, element nodes, attribute nodes, and text nodes. 
+
+### You can select element nodes by their id or class attributes, by tag name, or using CSS selector syntax.
+
+### Whenever a DOM query can return more than one node, it will always return a Node list.
+
+### From an element node, you can access and update its content using properties such as textContent and innerHTML or using DOM manipulation techniques.
+
+### An element node can contain multiple text nodes and child elements that are siblings of each other. 
+
+### In older browsers, implementation of the DOM is inconsistent (and is a popular reason for using jQuery).
+
+### Browsers offer tools for viewing the DOM tree .
 
 
 
