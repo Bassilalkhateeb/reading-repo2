@@ -28,6 +28,14 @@
 
 
 
+## Document Object Model :
+
+The Document Object Model (DOM) specifies
+how browsers should create a model of an HTML
+page and how JavaScript can access and update the
+contents of a web page while it is in the browser window.
+
+
 
 
 
