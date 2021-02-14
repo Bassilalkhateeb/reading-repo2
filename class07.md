@@ -238,7 +238,7 @@ and retrieve the time and date that it represents.
 
 ### Functions allow you to group a set of related statements together that represent a single task.
 
-
+__*more details and formation in duckett js book p 106-144*__
 
 
 
