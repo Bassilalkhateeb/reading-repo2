@@ -165,8 +165,6 @@ browser window or tab. You meet its child objects in Chapter 5.
 Whenever you have a value that is a string, you can use the properties
 and methods of the String object on that value.
 
-![image](images/Screenshot(112).png)
-
 
 Each character in a string is automatically given a number, called an index
 number. Index numbers always start at zero and not one (just like for
