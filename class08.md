@@ -54,7 +54,7 @@
 
 - ## Possible Layouts: 960 Pixel wide12 Column Grid
 
-![image](/images/Screenshot (63).png)
+![image](images/Screenshot(63).png)
 
 
 
