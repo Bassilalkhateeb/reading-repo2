@@ -61,7 +61,7 @@ A form may have several form controls, each gathering different information. The
 
 ### Text Input :
 
-- <input> : The <input> element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.
+- '<input>' : The '<input>' element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.
 
 - type="text" : When the type attribute has a value of text, it creates a single line text input.
 
