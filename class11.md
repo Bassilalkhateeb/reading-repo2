@@ -100,4 +100,4 @@ words between the opening < a > tag and closing < /a> tag in the link. If the te
 
 __*For more information please visit duckett html book (pp 476-492) & (pp 406-427)*__
 
-You can also read about video and images in html [Here](https://thenextweb.com/dd/2015/04/07/how-to-create-the-right-emotions-with-color-in-web-design/#:~:text=Vibrancy%20%E2%80%94%20Each%20color%20evokes%20specific,be%20more%20relaxing%20and%20tranquil)
+You can also read about video and images in html [Here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
