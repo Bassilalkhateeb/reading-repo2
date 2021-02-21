@@ -100,4 +100,34 @@ words between the opening < a > tag and closing < /a> tag in the link. If the te
 
 __*For more information please visit duckett html book (pp 476-492) & (pp 406-427)*__
 
+
+
+
+# Flash, Video & Audio:
+
+### How Flash Works?
+
+Since the late 1990s, Flash has been a very popular tool for creating animations, and later for playing audio and video in websites.
+
+Whether you are creating an animation or a media player in Flash, the files you put on your website are referred to as Flash movies. If you want to create your own Flash movie, you need to purchase the Flash authoring environment from Adobe. There are, however, several
+companies that offer Flash animations and slideshows, as well as video and audio players that you can use without purchasing this tool. When you create a Flash file in the Flash authoring environment, it is saved with the .fla file extension. In order to use this file on a web page it has to be saved in a different format known as SWF. (It has the .swf file extension.). When you export the movie
+into SWF format, Flash creates code that you can use to embed the Flash movie in your page. Traditionally, this code used the HTML < object> and < embed> tags. However, now it is more common to use JavaScript. To view Flash, browsers need to use a plugin (an extra piece of software that runs in the browser) called the Flash Player. Statistics commonly indicate that 98% of browsers on desktop computers have the Flash plugin installed. (The percentage of mobiles and tablets with it is much less.).
+
+
+
+### Use of Flash:
+
+
+Since 2005, a number of factors have meant that fewer websites are written in Flash or even use elements of Flash in their pages.
+
+Despite this, Flash does have a future on the web because there are some things it does very well, such as creating animations. There are several reasons why fewer websites are using Flash these days, including: In 2005-6, a set of JavaScript libraries were launched (including Prototype, script.aculo.us, and JQuery) which made it easier for people to create animated effects using JavaScript. When Apple launched the iPhone in 2007 and later the the iPad in 2010, they took the decision not to support Flash. There have been laws introduced to ensure that websites are usable by those with visual or physical impairments — and Flash has been criticized because Flash content does not always meet accessibility requirements.
+
+![image](images/Screenshot(160).png)
+![image](images/Screenshot(161).png)
+
+
+
+
+
+
 You can also read about video and images in html [Here](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
