@@ -20,4 +20,5 @@
  Read9 | [Read09](https://bassilalkhateeb.github.io/reading-repo2/class09)
  Read10 | [Read10](https://bassilalkhateeb.github.io/reading-repo2/class10)
  Read11 | [Read11](https://bassilalkhateeb.github.io/reading-repo2/class11)
- 
+ Read12 | [Read12](https://bassilalkhateeb.github.io/reading-repo2/class12)
+ Read13 | [Read13](https://bassilalkhateeb.github.io/reading-repo2/class13)
