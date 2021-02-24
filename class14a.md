@@ -53,9 +53,12 @@ __*to see full demos and proprieties go [here](https://learn.shayhowe.com/advanc
 
 [8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
 
-you can also check out these tricks and use it in your code:
+### You can also check out these tricks and use it in your code:
 
 [6 Buttons animated](https://codepen.io/retyui/pen/ByoaXV)
+
 [CSS3 Animations: Keyframes](https://codepen.io/akshaychauhan/pen/oAfae)
+
 [404](https://codepen.io/kieranfivestars/pen/MYdQxX)
+
 [Pure CSS Bounce Animation](https://codepen.io/dp_lewis/pen/gCfBv)
