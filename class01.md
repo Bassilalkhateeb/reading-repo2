@@ -1,6 +1,7 @@
 # Prework Reading Summary :
 
-+ ## HTML Book :
++ HTML Book :
+
 ### * Introduction which contains :
 ### o	Talk s about how the book was made and the sections of the book (Html , Css , and the practical), then went to talking about how people access the web, and how websites are created.
 ### o	How the Web Works : Page (9-10) show you how the process goes when someone requests to visit a website even if they were in a different places.
